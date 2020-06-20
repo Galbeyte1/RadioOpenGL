@@ -14,7 +14,7 @@ protected:
     void initializeGL();
     void resizeGL(int w, int h);
     void paintGL();
-    void ngon(int n);
+    void ngon(int n, int x, int y);
 };
 
 #endif
